@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gameadictive
+- 👀 I’m interested in LUA
+- 🌱 I’m currently learning to develop a FiveM Server called Tranquilandia RP for Spanish and English People
+- 💞️ I’m looking to collaborate on LUA Scripting
+- - 📫 How to reach me alfredo.canas.andreu.work@gmail.com
