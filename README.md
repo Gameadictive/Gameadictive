@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @Gameadictive
 
 🚀 Passionate about **LUA Scripting** and game development!  
-Currently working on **Tranquilandia RP**, a FiveM server for both Spanish and English-speaking players.
+Currently working on **Top One RP**, a FiveM server for both Spanish and English-speaking players.
 
 ## 🔥 About Me
 - 🎯 **Interested in:** LUA development and FiveM scripting.
